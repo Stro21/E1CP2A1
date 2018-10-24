@@ -1,10 +1,17 @@
 #bloque1{
 	background-color: red;
+	text-align: center;
 }
 
-.background_black{
-	background-color: black;
-}
-.background_blue{
+#bloque2{
 	background-color: blue;
+	align-content: center;
+}
+#bloque3{
+	background-color: black;
+	text-align: right;
+}
+
+.cuzco{
+	font-family: "El Rio Lobo";
 }
