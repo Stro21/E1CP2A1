@@ -6,16 +6,17 @@
 }
 
 #bloque2{
-	background-color: blue;
 	text-align: center;
 	background-color: #0089C0;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 #bloque3{
 	background-color: black;
 	text-align: right;
 }
 
-.cuzco{
+.letra1{
 	font-family: "El Rio Lobo";
 	color: #F4B031;
 }
@@ -23,4 +24,8 @@
 p {
 	color: white;
 	font-size: 18px;
+}
+
+.letra2{
+	font-style: normal;
 }
