@@ -13,8 +13,12 @@
 }
 #bloque3{
 	margin-top: -21px;
-	background-color: black;
+	background: url("../images/cuzco2.jpg") no-repeat center;
 	text-align: right;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #bloque4{
