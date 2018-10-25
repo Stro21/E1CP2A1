@@ -17,8 +17,8 @@
 	text-align: right;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #bloque4{
@@ -28,10 +28,16 @@
 	text-align: center;
 }
 
-.cuzco{
+.tipografia1{
 	font-family: "El Rio Lobo";
 	color: #F4B031;
 	margin-bottom: 5px;
+}
+
+.tipografia2{
+    font-family: "El Rio Lobo";
+    font-style: normal;
+    font-weight: 400;
 }
 
 p {
